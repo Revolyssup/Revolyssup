@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ### I'm a 3rd year computer science student currently parkouring between Machine Learning, Web Development and Competitive Programming. 
-
-#### ⚡ Fun fact: My favourite language is C++ but Im yet to write some actual good code in it.
+### 
+#### ⚡ I try to use c++ wherever I can, because its the best.And this is an objective truth.
 
 <!--
 **Revolyssup/Revolyssup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

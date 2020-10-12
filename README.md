@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-### I'm a 3rd year computer science student currently parkouring between Machine Learning, Web Development and Algorithms. 
-### 
-#### ⚡ I try to use c++ wherever I can, because its the best.And this is an objective truth.
+### C++ <3, Algorithms, Web development, Machine Learning.
+### Hobbies: Mathematics, Physics
+#### 
 
 <!--
 **Revolyssup/Revolyssup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

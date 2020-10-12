@@ -1,7 +1,7 @@
-## Hi there 👋
+## 3rd Year Computer Science student.
 
 ### C++ <3, Algorithms, Web development, Machine Learning.
-### Hobbies: Mathematics, Physics
+### Hobbies: Calculas, Number Theory and some other areas of mathematics, Physics.
 #### 
 
 <!--

@@ -1,6 +1,6 @@
 ## 3rd Year Computer Science student.
 
-### C++ <3, Algorithms,Backend Web development, Devops, Machine Learning.
+### C++ :heart: , Algorithms,Backend Web development, Devops, Machine Learning.
 ### Hobbies: Calculus, Linear Algebra and some other areas of mathematics,General Physics.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Revolyssup&&show_icons=true&&theme=tokyonight" />

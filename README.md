@@ -1,6 +1,6 @@
 ## 3rd Year Computer Science student.
 
-### C++ :heart: , Algorithms,Backend Web development, Devops, Machine Learning.
+### Backend Web development, Devops.
 ### Hobbies: Calculus, Linear Algebra and some other areas of mathematics,General Physics.
 
 

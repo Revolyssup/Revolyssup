@@ -2,7 +2,8 @@
 ---
 
 
-A passionate Software Engineer specializing in Typescript, Golang and Cloud Native Ecosystem.
+A curious Software Engineer and Backend Dev in a perpetual state of learning new technologies || Theory || Anything (Interesting || Relevant).
+
 
 ---
 

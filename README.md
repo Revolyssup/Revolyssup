@@ -2,7 +2,7 @@
 ---
 
 
-A curious Software Engineer and Backend Dev in a perpetual state of learning new technologies || Theory || Anything (Interesting || Relevant).
+A curious Software Engineer and Backend Dev in a perpetual state of learning new technologies || Theory || Anything=(Interesting || Relevant).
 
 
 ---

@@ -19,8 +19,8 @@ A curious Software Engineer and Backend Dev in a perpetual state of learning new
     <th>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revolyssup&theme=radical&hide=QML,CSS" align="center" />
     </th>
-   <th>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revolyssup&theme=radical&hide=QML,CSS" align="center" />
+    <th>
+      <img src="https://github-readme-stats.vercel.app/api?username=Revolyssup&show_icons=true&theme=radical&count_private=true&border_radius=8&custom_title=My+Github+Stats" align="center" />
     </th>
   </tr>
 </table>

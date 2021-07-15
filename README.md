@@ -17,7 +17,7 @@ A curious Software Engineer and Backend Dev in a perpetual state of learning new
 <table>
   <tr>
     <th>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-pro&theme=radical&hide=QML,CSS" align="center" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revolyssup&theme=radical&hide=QML,CSS" align="center" />
     </th>
   </tr>
 </table>

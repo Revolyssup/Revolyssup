@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I am Ashish Tiwari, third year Computer Science Undergraduate.
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I am Ashish Tiwari, final year Computer Science Undergraduate.
 ---
 
 

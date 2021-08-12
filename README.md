@@ -23,4 +23,7 @@ A curious Software Engineer and Backend Dev in a perpetual state of learning new
       <img src="https://github-readme-stats.vercel.app/api?username=Revolyssup&show_icons=true&theme=radical&count_private=true&border_radius=8&custom_title=My+Github+Stats" align="center" />
     </th>
   </tr>
+  <th>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Revolyssup&hide_border=true&theme=blueberry" align="center" />
+  </th>
 </table>

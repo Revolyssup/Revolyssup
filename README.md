@@ -3,7 +3,7 @@
 
 
 A curious Software Engineer and Backend Dev in a perpetual state of learning new technologies || Theory || Anything=(Interesting || Relevant).
-Primary interests: Cloud native technologies, Networking, Operating systems, Databases
+Primary interests: Cloud native technologies, Distributed systems,Networking, Operating systems, Databases
 
 
 

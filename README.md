@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" />, I am Ashish Tiwari, final year Computer Science Undergraduate.
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" />, I am Ashish Tiwari, CSE undergrad from Delhi,India.
 ---
 
 Primary interests: Cloud native technologies, Distributed systems,Networking, Operating systems, Databases

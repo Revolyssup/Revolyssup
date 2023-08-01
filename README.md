@@ -1,10 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" />, I am Ashish Tiwari, Software engineer working remotely from India.
 ---
 
-Primary interests: API Gateways, Service Meshes, Kubernetes, Distributed systems, Networking, Operating systems, Databases
 
-<h2>Mostly "Runtime" sometimes "Cloud"</h2>
-<img src="https://pbs.twimg.com/media/FSdwC2caIAAWT63?format=jpg&name=large" alt="JavaScript" width="400" height="400" />
+Primary interests: API Gateways, Service Meshes, Kubernetes, Distributed systems, Networking, Operating systems, Databases
 
 ---
 

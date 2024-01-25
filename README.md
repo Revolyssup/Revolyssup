@@ -8,7 +8,7 @@ Primary interests: API Gateways, Service Meshes, Kubernetes, Distributed systems
 
 ### 🧰 Technologies
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust" width="60" height="60" /><img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" alt="ArgoCD" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Golang" width="50" height="50" /><<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust" width="60" height="60" /><img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" alt="ArgoCD" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Golang" width="50" height="50" /><<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="K8" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50" />
 ---

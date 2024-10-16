@@ -1,8 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" />, I am Ashish Tiwari, Software engineer working remotely from India.
 ---
-
-
-Primary interests: API Gateways, Service Meshes, Kubernetes, Distributed systems, Networking, Operating systems, Databases
+Currently exploring Networking, API gateways, Service Meshes and everything between L3-L7
 ---
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust" width="60" height="60" /><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Golang" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="Lua" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" alt="Prom" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="K8" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50" />
